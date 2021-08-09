@@ -1,5 +1,5 @@
 # Contador-New-Year
-Contador de los dias que faltan para anio nuevo, usando HTML y Javascript
+Cuenta regresiva año nuevo, usando HTML y Javascript
 
 **Tutorial**
 <br/><br/>
